@@ -5,6 +5,7 @@ version '1.0.0'
 
 name "httpmanager"
 author "unblazq"
+description "https://github.com/unblazq"
 
 escrow_ignore {
 	"**/*",
