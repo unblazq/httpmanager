@@ -1,11 +1,10 @@
 fx_version "cerulean"
 game "common"
 
-version '1.0.0'
+version '1.1.5'
 
 name "httpmanager"
 author "unblazq"
-description "https://github.com/unblazq"
 
 escrow_ignore {
 	"**/*",
